@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+}
+
+.card{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-size: 0;
+    
+    
+}
+.cal-head #result{
+    width: 337px;
+    height: 100px;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: right;
+    padding: 0 5px;
+    letter-spacing: 2px;
+    background: #3A4655;
+    color: #fff;
+}
+.cal-body .btn{
+    width: 86px;
+    height:70px;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgba(255,255,255,1.0);
+    background: #425062;
+    cursor: pointer;
+    display: inline-block;
+  
+}
+.cal-body .btn-c{
+    background: #f82d2d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
